@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://nacs-lab.github.io/</loc>
+         <lastmod>2025-05-07</lastmod>
+    </url>
+    <url>
+         <loc>https://nacs-lab.github.io/MathJax/</loc>
+         <lastmod>2025-05-07</lastmod>
+    </url>
+    <url>
+         <loc>https://nacs-lab.github.io/MathJax/CONTRIBUTING/</loc>
+         <lastmod>2025-05-07</lastmod>
+    </url>
+    <url>
+         <loc>https://nacs-lab.github.io/computer_concepts/languages/</loc>
+         <lastmod>2025-05-07</lastmod>
+    </url>
+    <url>
+         <loc>https://nacs-lab.github.io/computer_concepts/networking/</loc>
+         <lastmod>2025-05-07</lastmod>
+    </url>
+    <url>
+         <loc>https://nacs-lab.github.io/computer_concepts/system_management/</loc>
+         <lastmod>2025-05-07</lastmod>
+    </url>
+    <url>
+         <loc>https://nacs-lab.github.io/software/overview/</loc>
+         <lastmod>2025-05-07</lastmod>
+    </url>
 </urlset>
